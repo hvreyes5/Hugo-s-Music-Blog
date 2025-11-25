@@ -23,6 +23,11 @@ figure img {
   align-items: center;
 }
 
-footer #page-footer p{
-text-align: center;
+footer#page-footer {
+  background-color: cornflowerblue;
+  border-top: 200px;
+}
+
+footer#page-footer p {
+  text-align: center;
 }
