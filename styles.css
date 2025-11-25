@@ -22,3 +22,8 @@ figure img {
   max-width: 600px;
   align-items: center;
 }
+
+footer #page-footer p{
+text-align: center;
+text-decoration-color: aqua;
+}
